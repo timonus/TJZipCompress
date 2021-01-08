@@ -5,6 +5,8 @@
 //  Copyright © 2020 Tim Johnsen. All rights reserved.
 //
 
+#import "TJZipCompress.h"
+
 FOUNDATION_EXTERN void TJZipCompress(NSURL *const fromFileURL, NSURL *const toFileURL)
 {
     // https://twitter.com/steipete/status/1331670439471554560
